@@ -1,0 +1,27 @@
+{
+  "github_url": "https://github.com/NekoIbuki/",
+  "dark_mode": "auto",
+  "name": "NekoIbuki",
+  "bio": "科创 | 计算机技术",
+  "introduction_file": "Introduction.md",
+  "theme": {
+    "primary_color": "#6a11cb",
+    "secondary_color": "#2575fc",
+    "dark_primary_color": "#a855f7",
+    "dark_secondary_color": "#60a5fa"
+  },
+  "background": {
+    "image": "back.jpg",
+    "blur": 4,
+    "overlay_opacity": 0.6,
+    "overlay_color": "#f3f4f6",
+    "dark_overlay_color": "#121212"
+  },
+  "contact": {
+    "qq": "QQ号为1667075829",
+    "wechat": "微信号为:Ibuki_Adorable",
+    "bilibili": "https://space.bilibili.com/523310284",
+    "douyin": "",
+    "xiaohongshu": ""
+  }
+}
