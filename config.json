@@ -1,4 +1,9 @@
 {
+  "site": {
+    "url": "https://ibuki-mcserver.xyz",
+    "baseURL": "https://ibuki-mcserver.xyz"
+  },
+{
   "github_url": "https://github.com/NekoIbuki/",
   "dark_mode": "auto",
   "name": "NekoIbuki",
@@ -24,4 +29,5 @@
     "douyin": "",
     "xiaohongshu": ""
   }
+
 }
