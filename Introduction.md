@@ -5,6 +5,11 @@
 ## 关于我
 
 我是一名热爱计算机与科创的开发者，喜欢探索新技术和解决各种有趣的问题。
+偶尔会玩以fps类型为主的游戏不过会尝试别的类型的游戏(最喜欢的是Minecraft
+Steam:1212952136
+邮箱:PublicBoolIsNt@outlook.com
+MC:Yi_Chui_Ibuki
+twitter:@Neko_Ibuki414
 
 ## 技术栈:
 
@@ -25,5 +30,6 @@
 ## 联系我
 
 如果你对我的项目感兴趣或者有任何问题，可以通过 GitHub 联系我
+
 
 
