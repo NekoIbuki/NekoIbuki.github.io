@@ -11,7 +11,7 @@ Steam:1212952136
 MC:Yi_Chui_Ibuki
 twitter:@Neko_Ibuki414
 
-## 技术栈:
+## 编程语言:
 
 * \* C/C++
 * \* C#
@@ -30,6 +30,7 @@ twitter:@Neko_Ibuki414
 ## 联系我
 
 如果你对我的项目感兴趣或者有任何问题，可以通过 GitHub 联系我
+
 
 
 
